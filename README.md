@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on INVENTORY MANAGER **Inventory management system**
 
-- 🌱 I’m currently learning JAVA, HTML5, CSS, JS, C# **STI COLLEGE, W3School, and coursera**
+- 🌱 I’m currently learning JAVA, HTML5, CSS, JS, C#, W3School, and taking certificates from coursera*
+
+- Currently Studying at STI Colleges.
 
 - 👯 I’m looking to collaborate on MY CLASSMATES **Inventory management system**
 
