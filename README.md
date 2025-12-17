@@ -9,7 +9,7 @@
 
 - Currently Studying at STI Colleges.
 
-- 👯 I’m looking to collaborate on MY CLASSMATES **Inventory management system**
+- 👯 Currently working on Student Manager System
 
 - 👨‍💻 All of my projects are available at GITHUB [https://github.com/Codeshes](https://github.com/Codeshes)
 
