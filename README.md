@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning JAVA, HTML5, CSS, JS, C#, W3School, and taking certificates from coursera*
 
-- Currently Studying at STI Colleges.
+- 🎒 Currently Studying at STI Colleges.
 
 - 👯 Currently working on Student Manager System
 
