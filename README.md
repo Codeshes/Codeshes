@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeshes&show_icons=true&locale=en" alt="codeshes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeshes&" alt="codeshes" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=codeshes&](https://github.com/Codeshes)" alt="codeshes" /></p>
