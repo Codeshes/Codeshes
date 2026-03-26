@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeshes&label=Profile%20views&color=0e75b6&style=flat" alt="codeshes" /> </p>
 
-- 🔭 I’m currently working on INVENTORY MANAGER **Maintenance Request System Realtime Mobile Application**
+- 🔭 I’m currently working on **Maintenance Request System Realtime Mobile Application**
 
 - 🌱 I’m currently learning JAVA, HTML5, CSS, JS, C#, W3School, and taking certificates from coursera*
 
