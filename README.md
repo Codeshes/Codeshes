@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nat</h1>
-<h3 align="center">A passionate newbie backend developer from philippines</h3>
+<h3 align="center">A passionate newbie backend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeshes&label=Profile%20views&color=0e75b6&style=flat" alt="codeshes" /> </p>
 
-- 🔭 I’m currently working on INVENTORY MANAGER **Inventory management system**
+- 🔭 I’m currently working on INVENTORY MANAGER **Maintenance Request System Realtime Mobile Application**
 
 - 🌱 I’m currently learning JAVA, HTML5, CSS, JS, C#, W3School, and taking certificates from coursera*
 
