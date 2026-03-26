@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Maintenance Request System Realtime Mobile Application**
 
-- 🌱 Tools and languages JAVA, HTML5, CSS, JS, C#, W3School, SQL, SQLite, NoSQL, Firebase, and taking certificates from coursera*
+- 🌱 Tools and languages JAVA, HTML5, CSS, JS, C#, W3School, SQL, SQLite, NoSQL, Firebase, Android Programming, and taking certificates from coursera*
 
 - 🎒 Currently Studying at STI Colleges.
 
