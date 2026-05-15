@@ -11,9 +11,7 @@
   **Java, HTML5, CSS3, JavaScript, C#, SQL, SQLite, NoSQL, Firebase, Android Programming, and Cloudinary**
 
 - 🎓 Currently studying at **STI Colleges**
-
-- 👯 Currently working on **Student Manager System**
-
+  
 - 👨‍💻 All of my projects are available on GitHub:
   <a href="https://github.com/Codeshes">github.com/Codeshes</a>
 
