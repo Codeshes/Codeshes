@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nat</h1>
-<h3 align="center">A student in STI College San Pablo</h3>
+<h3 align="center">"A student in STI College San Pablo major in IT IN MOBILE APP AND WEB DEV'T"</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeshes&label=Profile%20views&color=0e75b6&style=flat" alt="codeshes" />
