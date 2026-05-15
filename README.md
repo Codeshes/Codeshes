@@ -1,33 +1,140 @@
 <h1 align="center">Hi 👋, I'm Nat</h1>
-<h3 align="center">A passionate newbie backend developer from Philippines</h3>
+<h3 align="center">A passionate newbie backend developer from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeshes&label=Profile%20views&color=0e75b6&style=flat" alt="codeshes" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codeshes&label=Profile%20views&color=0e75b6&style=flat" alt="codeshes" />
+</p>
 
 - 🔭 I’m currently working on **Maintenance Request System Realtime Mobile Application**
 
-- 🌱 Tools and languages JAVA, HTML5, CSS, JS, C#, W3School, SQL, SQLite, NoSQL, Firebase, Android Programming, and taking certificates from coursera*
+- 🌱 Currently learning and using:
+  **Java, HTML5, CSS3, JavaScript, C#, SQL, SQLite, NoSQL, Firebase, Android Programming, and Cloudinary**
 
-- 🎒 Currently Studying at STI Colleges.
+- 🎓 Currently studying at **STI Colleges**
 
-- 👯 Currently working on Student Manager System
+- 👯 Currently working on **Student Manager System**
 
-- 👨‍💻 All of my projects are available at GITHUB [https://github.com/Codeshes](https://github.com/Codeshes)
+- 👨‍💻 All of my projects are available on GitHub:
+  <a href="https://github.com/Codeshes">github.com/Codeshes</a>
 
-- 📫 How to reach me instagram **@vargasnthnl**
+- 📫 How to reach me:
+  **Instagram: @vargasnthnl**
 
-- ⚡ Fun fact **I like programming**
+- ⚡ Fun fact:
+  **I like programming**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://fb.com/Nat Nats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nat" height="30" width="40" /></a>
-<a href="https://instagram.com/vargasnthnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vargasnthnl" height="30" width="40" /></a>
+  <a href="https://fb.com/Nat Nats" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="nat"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="https://instagram.com/vargasnthnl" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="vargasnthnl"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeshes&show_icons=true&locale=en&layout=compact" alt="codeshes" /></p>
+<p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeshes&show_icons=true&locale=en" alt="codeshes" /></p>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android"
+      width="40"
+      height="40"/>
+  </a>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=codeshes&](https://github.com/Codeshes)" alt="codeshes" /></p>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg"
+      alt="cloudinary"
+      width="40"
+      height="40"/>
+  </a>
+
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=codeshes&show_icons=true&locale=en&layout=compact"
+    alt="codeshes" />
+</p>
+
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=codeshes&show_icons=true&locale=en"
+    alt="codeshes" />
+</p>
+
+<p>
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codeshes"
+    alt="codeshes" />
+</p>
